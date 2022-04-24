@@ -7,7 +7,7 @@
 <strong> 📚 https://velog.io/@ewaterbin </strong><br>
 
 
-## little More About Me
+## A Little More About Me
 
 ```javascript
 const subin = {
