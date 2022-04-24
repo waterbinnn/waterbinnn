@@ -1,6 +1,6 @@
 # <div align="center">Hello 👋    I'm Subin! </div>  
   
-### 👩🏻‍💻 Junior Front-End Developer
+### 👩🏻‍💻 Junior Front-End Developer 🎉
 
 ### contact me ! 
 <strong>   💌 ewaterbin@naver.com</strong><br>
@@ -15,7 +15,7 @@ const subin = {
   frontend: [developer],
   skills: [Javascript, Typescript, HTML, CSS, Python, React],
   now: {
-    studying: "JS",
+    studying: "JavaScript",
     education: "Like Lion Frontend School",
     mentor: [Jeju Coding Base Camp, Like Lion],
   },
