@@ -17,7 +17,7 @@ const subin = {
   now: {
     studying: "JavaScript",
     education: "Like Lion Frontend School",
-    mentor: [Jeju Coding Base Camp, Like Lion],
+    mentor: ["Jeju Coding Base Camp", "Like Lion"],
   },
  challenge: "I am doing the #commitEveryday challenge"
 }
