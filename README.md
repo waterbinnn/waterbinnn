@@ -19,7 +19,7 @@ const subin = {
     education: "Like Lion Frontend School",
     mentor: ["Jeju Coding Base Camp", "Like Lion"],
   },
- challenge: "I am doing the #commitEveryday challenge"
+ challenge: "I am doing the #1day_1function challenge"
 }
 ```
 
