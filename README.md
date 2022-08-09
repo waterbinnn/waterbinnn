@@ -3,7 +3,7 @@
 ### 👩🏻‍💻 Junior Front-End Developer 🎉
 
 ### contact me ! 
-<strong>   💌 ewaterbin@naver.com</strong><br>
+<strong>   💌 ewaterbinn@gmail.com</strong><br>
 <strong> 📚 https://velog.io/@ewaterbin </strong><br>
 
 
@@ -18,7 +18,6 @@ const subin = {
     studying: "JavaScript and React",
     education: "Like Lion Frontend School",
     mentor: ["Jeju Coding Base Camp", "Like Lion"],
-  },
- challenge: "I am doing the #1day_1function challenge"
+  }
 }
 ```
