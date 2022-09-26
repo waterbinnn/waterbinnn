@@ -13,11 +13,6 @@
 const subin = {
   pronouns: "she" | "her",
   frontend: [developer],
-  skills: [Javascript, Typescript, HTML, CSS, Python, React],
-  now: {
-    studying: "JavaScript and React",
-    education: "Like Lion Frontend School",
-    mentor: ["Jeju Coding Base Camp", "Like Lion"],
-  }
+  skills: [React, Javascript, Typescript, HTML, CSS, Sass],
 }
 ```
