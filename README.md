@@ -1,6 +1,4 @@
 # <div align="center">Hello 👋    I'm Subin! </div>  
-  
-### 👩🏻‍💻 Junior Front-End Developer 🎉
 
 ### contact me ! 
 <strong>   💌 ewaterbinn@gmail.com</strong><br>
