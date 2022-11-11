@@ -11,6 +11,7 @@
 const subin = {
   pronouns: 'she' | 'her',
   frontend: [developer],
-  skills: ['React.js', 'React-Native', 'React-Query', 'Javascript', 'Typescript', 'HTML', 'CSS', 'Sass', 'node.js'],
+  skills: ['React.js', 'React-Native', 'React-Query', 
+  'Javascript', 'Typescript', 'HTML', 'CSS', 'Sass', 'node.js'],
 }
 ```
