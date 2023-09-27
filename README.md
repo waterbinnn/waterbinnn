@@ -1,4 +1,4 @@
-# <div align="center">Hello 👋    I'm Subin! </div>  
+# Hello 👋 I'm Subin!
 
 ### ♻️ Front End Developer 🔧
 
